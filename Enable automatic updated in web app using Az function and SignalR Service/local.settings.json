@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=infinitystorageaccounts;AccountKey=u38qGS9S/dr4HtPnhk2i/Y1Pl1KrHxlLdhzRw/+nVexsOpz1usw6Q3Bo6QAEAp6ZPXru3WAy8GY3NjYwOcuOWg==;EndpointSuffix=core.windows.net",
+    "AzureCosmosDBConnectionString": "AccountEndpoint=https://cosmos-infinity.documents.azure.com:443/;AccountKey=2CWSNDL9lOuxzDFgK2pMBr7B9h3tfnrBLCbnZInKR6uNc3Ht2Pxxd2QYucpjeZjHO3RnsfohLvki0nFUd2Qnzg==",
+    "AzureCosmosDBMasterKey": "2CWSNDL9lOuxzDFgK2pMBr7B9h3tfnrBLCbnZInKR6uNc3Ht2Pxxd2QYucpjeZjHO3RnsfohLvki0nFUd2Qnzg==",
+    "AzureSignalRConnectionString": "Endpoint=https://signalr-infinity.service.signalr.net;AccessKey=kKvypR4DueNcKbytCyUM6rJvqi7JNOXNSClU9IlZdVo=;Version=1.0",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:8080",
+    "CORSCredentials": true
+  }
+}
